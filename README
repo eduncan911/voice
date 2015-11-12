@@ -1,0 +1,3 @@
+# voice
+
+A fast, distributed, scalable bulletin board (forum) written in Go using event sourcing.
